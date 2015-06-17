@@ -1,0 +1,23 @@
+Developed by: Nevil Ladani
+---------
+3D Graphics Robot.
+The project was developed in python.
+---------
+Run the executable - flyingMoonRobot.exe
+---------
+CONTROLS:
+Use these arrow keys to move the robot:
+Run - "r"
+Camera view up - "w"
+Camera view down - "s"
+Camera view left - "a"
+Camera view right - "d"
+Rotate eyes - "c" 
+Fly - "space"
+Fly forward - "space" and then "r"
+Turn left - "o"
+Turn Right - "p"
+Antenna rotate 1  - "v"
+Antenna rotate 2  - "b"
+Antenna rotate 3  - "g"
+Antenna rotate 4  - "h"
